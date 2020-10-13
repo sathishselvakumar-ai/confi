@@ -1,0 +1,6 @@
+__pycache__/**
+config*
+build/**
+test/**
+test.py
+**/__pycache__/**
